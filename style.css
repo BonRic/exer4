@@ -1,0 +1,252 @@
+@font-face {
+    font-family: Offside;
+    src: url("./font/Offside-Regular.ttf");
+}
+h1 {
+    max-width: 600px;
+    margin: auto; 
+    position: relative;
+    left: 520px;
+    font-size: 47px;
+    font-weight: bold;
+    font-family: Offside;
+    margin-top: 1rem;
+}
+body {
+  background-color: white;
+  max-height: 600px;
+  max-width: 500px;
+  width: 100%;
+  box-sizing: border-box;
+  margin-right: 0px;
+  overflow: hidden;
+}
+ul {
+    list-style-type:none
+}
+li {
+    font-family: Offside;
+    font-size: 25px;
+}
+.homepag {
+    position: relative;
+    max-width: 200px;
+    top: -100px;
+    left: 20px;
+}
+.aboutpag {
+    position: relative;
+    top: -60px;
+    left: 1100px;
+    max-width: 200px;
+}
+
+.camilopag{
+    position: relative;
+    top: -1px;
+    left: 100px;
+}
+.camilofront {
+    position: relative;
+    top: -165px;
+    left: 30px;
+}
+
+.timpag {
+    position: relative;
+    top: 232px;
+    left: 120px;
+}
+.timfront {
+    position: relative;
+    top: -95px;
+    left: 30px;
+}
+
+.linnpag {
+    position: relative;
+    top: -65px;
+    left: 580px;
+}
+.linnfront {
+    position: relative;
+    top: -553px;
+    left: 475px;
+}
+
+.karlottapag {
+    position: relative;
+    top: 167px;
+    left: 545px;
+}
+.karlottafront {
+    position: relative;
+    top: -483px;
+    left: 475px;
+}
+
+.xoanapag {
+    position: relative;
+    top: -130px;
+    left: 990px;
+}
+.xoanafront {
+    position: relative;
+    top: -940px;
+    left: 920px;
+    max-width: 400px;
+}
+
+.bocapag {
+    position: relative;
+    top: 102px;
+    left: 1030px;
+}
+.bocafront {
+    position: relative;
+    top: -872px;
+    left: 920px;
+    max-width: 400px;
+}
+.camilotitle {
+    max-width: 400;
+    position: relative; 
+    left: 480px;
+    top: -50px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Offside;
+}
+.camilotxt {
+    max-width: 400px;
+    position: relative; 
+    left: 432px;
+    top: -1050px;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: Offside;
+    text-align: justify;
+}
+.camilosx {
+    position:relative;
+    top: -130px;
+    left: -20px;
+}
+.camilodx {
+    position:relative;
+    top: -618px;
+    left: 900px;
+}
+.timtitle {
+    max-width: 400;
+    position: relative; 
+    left: 530px;
+    top: -70px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Offside;
+}
+.linntitle {
+    max-width: 400;
+    position: relative; 
+    left: 530px;
+    top: -70px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Offside;
+}
+.karlottatitle {
+    max-width: 400;
+    position: relative; 
+    left: 480px;
+    top: -70px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Offside;
+}
+.xoanatitle {
+    max-width: 400;
+    position: relative; 
+    left: 480px;
+    top: -70px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Offside;
+}
+.bocatitle {
+    max-width: 400;
+    position: relative; 
+    left: 560px;
+    top: -70px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Offside;
+}
+.txt{
+    max-width: 400px;
+    position: relative; 
+    left: 436px;
+    top: -1050px;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: Offside;
+    text-align: justify;
+}
+.sx {
+    position:relative;
+    top: -115px;
+    left: -10px;
+}
+.dx {
+    position:relative;
+    top: -590px;
+    left: 907px;
+}
+.who {
+    max-width: 400;
+    position: relative; 
+    left: 498px;
+    top: -60px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Offside; 
+}
+.endtxt {
+    max-width: 400px;
+    position: relative; 
+    left: 430px;
+    top: -60px;
+    font-size: 17px;
+    font-weight: normal;
+    font-family: Offside;
+    text-align: justify; 
+}
+.follow {
+    max-width: 400;
+    position: relative; 
+    left: 530px;
+    top: -70px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Offside; 
+}
+.insta {
+    position: relative; 
+    left: 160px;
+    top: -470px;
+}
+.face {
+    position: relative; 
+    left: 157px;
+    top: -420px;
+}
+.tiktok {
+    position: relative; 
+    left: 1000px;
+    top: -672px;
+}
+.youtube {
+    position: relative; 
+    left: 985px;
+    top: -640px;
+}
